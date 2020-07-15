@@ -3,6 +3,6 @@
 - 🔭 I’m currently working on Chat App 
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Anything,I will try my best to answer
-- 📫 How to reach me: Email: Dhananjaysahu79@gmail.com, Ig: @dhananjaysahu79
+- 📫 How to reach me: Email: Dhananjaysahu79@gmail.com,
 - ⚡ Fun fact: Android over iOS anyday
 
