@@ -6,3 +6,5 @@
 - 📫 How to reach me: Email: Dhananjaysahu79@gmail.com, Ig:[@dhananjaysahu79](https://www.instagram.com/dhananjaysahu79/)
 - ⚡ Fun fact: Android over iOS anyday
 
+
+-<img src="https://github-readme-stats.vercel.app/api?username=dhananjaysahu79&&show_icons=true&title_color=E50914&icon_color=E50914&text_color=daf7dc&bg_color=151515">
