@@ -7,4 +7,4 @@
 - ⚡ Fun fact: Android over iOS anyday
 
 
--<img src="https://github-readme-stats.vercel.app/api?username=dhananjaysahu79&&show_icons=true&title_color=1DB954&icon_color=1DB954&text_color=0000FF&bg_color=151515">
+-<img src="https://github-readme-stats.vercel.app/api?username=dhananjaysahu79&&show_icons=true&title_color=1661DE&icon_color=1661DE&text_color=0000FF&bg_color=0D1117">
