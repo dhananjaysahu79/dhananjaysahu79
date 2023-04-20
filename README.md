@@ -1,8 +1,5 @@
 ### Namaste🙏 I am Dhananjay
 
-- 💬 Ask me about Anything,I will try my best to answer
-- 📫 How to reach me: Email: Dhananjaysahu79@gmail.com,
-
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjay-sahu-525b1b1a1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCd70HyUZpMAqEoLR6bTwYpg) 
@@ -13,9 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=dhananjaysahu79&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dhananjaysahu79&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaysahu79&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhananjaysahu79&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dhananjaysahu79&icon=0&color=11)](https://visitcount.itsvg.in)
